@@ -13,7 +13,7 @@ loadCTEOS(filepath, recode = TRUE)
 codebook.}
 }
 \value{
-A loaded CTEOS dataset
+A CTEOS dataset as a dataset
 }
 \description{
 Load and Clean CTEOS Data
